@@ -2,10 +2,12 @@
 Reources related to human motion generation, with/without scene understanding, etc.
 
 ## A. Human Motion
-1. SMPL: A skinned multi-person linear model [[paper]] , [[review]], [[project-page](https://smpl.is.tue.mpg.de/)]
+1. SMPL: A skinned multi-person linear model [[paper]] , [[review]], [[project-page](https://smpl.is.tue.mpg.de/)]  
     variants: SMPLX[[project-page](https://smpl-x.is.tue.mpg.de/)], MANO[[project-page](https://mano.is.tue.mpg.de/)], STAR [[project-page](https://star.is.tue.mpg.de/)]
 2. MoSh: [[project-page](https://ps.is.tuebingen.mpg.de/research_projects/mosh)] 
     variants: MoSh++
+3. Learning to Regress 3D Face Shape and Expression From an Image Without 3D Supervision [[link](https://openaccess.thecvf.com/content_CVPR_2019/html/Sanyal_Learning_to_Regress_3D_Face_Shape_and_Expression_From_an_CVPR_2019_paper.html)]
+4. 
 
 
 
