@@ -36,7 +36,7 @@ Reources related to human motion generation, with/without scene understanding, e
 ## Libraries, modules and framework
 
 Meshlab  [[link](https://www.meshlab.net/)]  
-Open3D  [[link](http://www.open3d.org/]  
+Open3D  [[link](http://www.open3d.org/)]  
 PyTorch  [[link](https://pytorch.org)]  
 PyTorch3D [[link](https://pytorch3d.org/)]    
 Pyrender package  [[link](https://pyrender.readthedocs.io/en/latest/)]  
