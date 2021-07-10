@@ -75,6 +75,7 @@ Trimesh package [[link](https://trimsh.org/trimesh.html)]
 1. Chumpy [[GH](https://github.com/mattloper/chumpy)] for auto-differentiation
 2. C++ implementation of SMPL [[GH](https://github.com/YeeCY/SMPLpp)]
 3. Python implementation of SMPL [[GH](https://github.com/CalciferZh/SMPL)]
+4. **Awesome 3D body papers** [[GH](https://github.com/3DFaceBody/awesome-3dbody-papers)]  
 
 
 <!--- End --->
