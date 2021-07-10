@@ -76,6 +76,8 @@ Trimesh package [[link](https://trimsh.org/trimesh.html)]
 2. C++ implementation of SMPL [[GH](https://github.com/YeeCY/SMPLpp)]
 3. Python implementation of SMPL [[GH](https://github.com/CalciferZh/SMPL)]
 4. **Awesome 3D body papers** [[GH](https://github.com/3DFaceBody/awesome-3dbody-papers)]  
+5. SMPL fitting
+    a. Multiview SMPL fitting based on SMPLify-X [[GH](https://github.com/boycehbz/MvSMPLfitting)]  
 
 
 <!--- End --->
