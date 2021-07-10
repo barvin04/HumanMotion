@@ -3,7 +3,7 @@ Reources related to human motion generation, with/without scene understanding, e
 
 ## A. Human Motion
 1. **SMPL**: A skinned multi-person linear model. [[paper](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)] , review, [[project-page](https://smpl.is.tue.mpg.de/)]  
-    variants: SMPLX[[project-page](https://smpl-x.is.tue.mpg.de/)], MANO[[project-page](https://mano.is.tue.mpg.de/)], STAR [[project-page](https://star.is.tue.mpg.de/)], SMPLify [[project-page](https://smplify.is.tue.mpg.de/)],   
+    variants: SMPLX[[project-page](https://smpl-x.is.tue.mpg.de/)], MANO[[project-page](https://mano.is.tue.mpg.de/)], STAR [[project-page](https://star.is.tue.mpg.de/)], SMPLify [[project-page](https://smplify.is.tue.mpg.de/)], SMPLify-X [[GH](https://github.com/vchoutas/smplify-x)]     
 2. **PROX**: Proximal Relationship with Object eXclusion.  [[paper](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/530/ICCV_2019___PROX.pdf)],review, [[project-page](https://prox.is.tue.mpg.de/)], [[GH](https://github.com/mohamedhassanmus/prox)]
 3. MoSh: Motion and Shape Capture from Sparse Markers. [[project-page](https://ps.is.tuebingen.mpg.de/research_projects/mosh)]   
     variants: MoSh++
