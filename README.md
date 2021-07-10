@@ -3,7 +3,7 @@ Reources related to human motion generation, with/without scene understanding, e
 
 ## A. Human Motion
 1. **SMPL**: A skinned multi-person linear model. [[paper](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)] , review, [[project-page](https://smpl.is.tue.mpg.de/)]  
-    variants: SMPLX[[project-page](https://smpl-x.is.tue.mpg.de/)], MANO[[project-page](https://mano.is.tue.mpg.de/)], STAR [[project-page](https://star.is.tue.mpg.de/)]
+    variants: SMPLX[[project-page](https://smpl-x.is.tue.mpg.de/)], MANO[[project-page](https://mano.is.tue.mpg.de/)], STAR [[project-page](https://star.is.tue.mpg.de/)], SMPLify [[project-page](https://smplify.is.tue.mpg.de/)],   
 2. **PROX**: Proximal Relationship with Object eXclusion.  [[paper](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/530/ICCV_2019___PROX.pdf)],review, [[project-page](https://prox.is.tue.mpg.de/)], [[GH](https://github.com/mohamedhassanmus/prox)]
 3. MoSh: Motion and Shape Capture from Sparse Markers. [[project-page](https://ps.is.tuebingen.mpg.de/research_projects/mosh)]   
     variants: MoSh++
@@ -11,7 +11,8 @@ Reources related to human motion generation, with/without scene understanding, e
 5. HuMoR: 3D Human Motion Model for Robust Pose Estimation. [[paper](https://geometry.stanford.edu/projects/humor/docs/humor.pdf)], [[review]], [[project-page](https://geometry.stanford.edu/projects/humor/)]
 6. VIBE: Video Inference for Human Body Pose and Shape Estimation. [[paper](https://arxiv.org/pdf/1912.05656.pdf)], review, [[project-page](https://www.is.mpg.de/publications/vibe-cvpr-2020)]
 7. TCMR: Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video. [[paper](https://arxiv.org/abs/2011.08627)], review, [[GH](https://github.com/hongsukchoi/TCMR_RELEASE)]
-8.  Human Mesh Recovery (HMR): End-to-end adversarial learning of human pose and shape. [[paper](https://arxiv.org/pdf/1712.06584.pdf)], review, [[project-page](https://akanazawa.github.io/hmr/)], [[GH](https://github.com/akanazawa/hmr)]
+8.  Human Mesh Recovery (HMR): End-to-end adversarial learning of human pose and shape. [[paper](https://arxiv.org/pdf/1712.06584.pdf)], review, [[project-page](https://akanazawa.github.io/hmr/)], [[GH](https://github.com/akanazawa/hmr)]  
+9.  A Spatio-Temporal Transformer for 3D Human Motion Prediction
 
 
 
@@ -50,7 +51,8 @@ Trimesh package [[link](https://trimsh.org/trimesh.html)]
 5. 
 6. Scape dataset [[project-page](https://ai.stanford.edu/~drago/Projects/scape/scape.html)]
 7. Human 3.6M
-8. CMU Mocap [[project-page](http://mocap.cs.cmu.edu)]
+8. CMU Mocap [[project-page](http://mocap.cs.cmu.edu)]  
+9. NTU-X [[GH](https://github.com/skelemoa/ntu-x)]
 
 
 ## Projects and Repos
