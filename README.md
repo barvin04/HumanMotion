@@ -6,7 +6,7 @@ Reources related to human motion generation, with/without scene understanding, e
     variants: SMPLX[[project-page](https://smpl-x.is.tue.mpg.de/)], MANO[[project-page](https://mano.is.tue.mpg.de/)], STAR [[project-page](https://star.is.tue.mpg.de/)], SMPLify [[project-page](https://smplify.is.tue.mpg.de/)], SMPLify-X [[GH](https://github.com/vchoutas/smplify-x)]       
 [[intro](https://github.com/barvin04/HumanMotion/blob/main/extra/SMPL_intro.md)]
 
-2. **PROX**: Proximal Relationship with Object eXclusion.  [[paper](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/530/ICCV_2019___PROX.pdf)],review, [[project-page](https://prox.is.tue.mpg.de/)], [[GH](https://github.com/mohamedhassanmus/prox)]
+2. PROX: Proximal Relationship with Object eXclusion.  [[paper](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/530/ICCV_2019___PROX.pdf)],review, [[project-page](https://prox.is.tue.mpg.de/)], [[GH](https://github.com/mohamedhassanmus/prox)]
 
 3. MoSh: Motion and Shape Capture from Sparse Markers. [[project-page](https://ps.is.tuebingen.mpg.de/research_projects/mosh)]   
     variants: MoSh++
@@ -22,6 +22,14 @@ Reources related to human motion generation, with/without scene understanding, e
 8.  Human Mesh Recovery (HMR): End-to-end adversarial learning of human pose and shape. [[paper](https://arxiv.org/pdf/1712.06584.pdf)], review, [[project-page](https://akanazawa.github.io/hmr/)], [[GH](https://github.com/akanazawa/hmr)]  
 
 9.  A Spatio-Temporal Transformer for 3D Human Motion Prediction
+
+10.  SPIN: Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop  [[GH](https://github.com/nkolot/SPIN)]  
+
+12.  DeepCut and DeeperCut [[GH](Deep(er)Cut: Multi Person Pose Estimation
+)]    
+a MPT in pytorch [[GH](https://github.com/mkocabas/multi-person-tracker)]  
+
+13.  **OpenPose** [[GH](https://github.com/CMU-Perceptual-Computing-Lab/openpose)]  
 
 
 
