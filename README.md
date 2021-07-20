@@ -3,15 +3,24 @@ Reources related to human motion generation, with/without scene understanding, e
 
 ## A. Human Motion
 1. **SMPL**: A skinned multi-person linear model. [[paper](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)] , review, [[project-page](https://smpl.is.tue.mpg.de/)]  
-    variants: SMPLX[[project-page](https://smpl-x.is.tue.mpg.de/)], MANO[[project-page](https://mano.is.tue.mpg.de/)], STAR [[project-page](https://star.is.tue.mpg.de/)], SMPLify [[project-page](https://smplify.is.tue.mpg.de/)], SMPLify-X [[GH](https://github.com/vchoutas/smplify-x)]     
+    variants: SMPLX[[project-page](https://smpl-x.is.tue.mpg.de/)], MANO[[project-page](https://mano.is.tue.mpg.de/)], STAR [[project-page](https://star.is.tue.mpg.de/)], SMPLify [[project-page](https://smplify.is.tue.mpg.de/)], SMPLify-X [[GH](https://github.com/vchoutas/smplify-x)]       
+[[intro](https://github.com/barvin04/HumanMotion/blob/main/extra/SMPL_intro.md)]
+
 2. **PROX**: Proximal Relationship with Object eXclusion.  [[paper](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/530/ICCV_2019___PROX.pdf)],review, [[project-page](https://prox.is.tue.mpg.de/)], [[GH](https://github.com/mohamedhassanmus/prox)]
+
 3. MoSh: Motion and Shape Capture from Sparse Markers. [[project-page](https://ps.is.tuebingen.mpg.de/research_projects/mosh)]   
     variants: MoSh++
+    
 4. Learning to Regress 3D Face Shape and Expression From an Image Without 3D Supervision. [[project-page](https://ringnet.is.tue.mpg.de)], review, [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sanyal_Learning_to_Regress_3D_Face_Shape_and_Expression_From_an_CVPR_2019_paper.pdf), [[GH](https://github.com/soubhiksanyal/RingNet)]. 
+
 5. HuMoR: 3D Human Motion Model for Robust Pose Estimation. [[paper](https://geometry.stanford.edu/projects/humor/docs/humor.pdf)], [[review]], [[project-page](https://geometry.stanford.edu/projects/humor/)]
+
 6. VIBE: Video Inference for Human Body Pose and Shape Estimation. [[paper](https://arxiv.org/pdf/1912.05656.pdf)], review, [[project-page](https://www.is.mpg.de/publications/vibe-cvpr-2020)]
+
 7. TCMR: Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video. [[paper](https://arxiv.org/abs/2011.08627)], review, [[GH](https://github.com/hongsukchoi/TCMR_RELEASE)]
+
 8.  Human Mesh Recovery (HMR): End-to-end adversarial learning of human pose and shape. [[paper](https://arxiv.org/pdf/1712.06584.pdf)], review, [[project-page](https://akanazawa.github.io/hmr/)], [[GH](https://github.com/akanazawa/hmr)]  
+
 9.  A Spatio-Temporal Transformer for 3D Human Motion Prediction
 
 
