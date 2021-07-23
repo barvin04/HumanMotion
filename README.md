@@ -21,7 +21,7 @@ Reources related to human motion generation, with/without scene understanding, e
 
 8.  Human Mesh Recovery (HMR): End-to-end adversarial learning of human pose and shape. [[paper](https://arxiv.org/pdf/1712.06584.pdf)], review, [[project-page](https://akanazawa.github.io/hmr/)], [[GH](https://github.com/akanazawa/hmr)]  
 
-9.  A Spatio-Temporal Transformer for 3D Human Motion Prediction
+9.  A Spatio-Temporal Transformer for 3D Human Motion Prediction. [[paper](https://arxiv.org/abs/2004.08692)]  
 
 10.  SPIN: Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop  [[GH](https://github.com/nkolot/SPIN)]  
 
