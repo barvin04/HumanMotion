@@ -29,7 +29,9 @@ Reources related to human motion generation, with/without scene understanding, e
 )]    
 a MPT in pytorch [[GH](https://github.com/mkocabas/multi-person-tracker)]  
 
-13.  **OpenPose** [[GH](https://github.com/CMU-Perceptual-Computing-Lab/openpose)]  
+13.  **OpenPose** [[GH](https://github.com/CMU-Perceptual-Computing-Lab/openpose)]. 
+
+14. PARE: Part Attention Regressor for 3D Human Body Estimation [[paper](https://arxiv.org/abs/2104.08527)], review, [[project-page](https://pare.is.tue.mpg.de/)].     
 
 
 
@@ -38,7 +40,7 @@ a MPT in pytorch [[GH](https://github.com/mkocabas/multi-person-tracker)]
 
 ## C. Scene Understanding
 1.  PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. [[paper](https://arxiv.org/pdf/1612.00593.pdf)], review, [[project-page](http://stanford.edu/~rqi/pointnet/)], [[GH](https://github.com/charlesq34/pointnet)]  
-    PointNet++ [[project-page](http://stanford.edu/~rqi/pointnet2/)]  
+    PointNet++ [[project-page](http://stanford.edu/~rqi/pointnet2/)],     
 
 ## Researchers
 ### Michael J. Black [[personal-page](https://ps.is.mpg.de/~black)]
