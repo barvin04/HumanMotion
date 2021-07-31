@@ -43,15 +43,23 @@ a MPT in pytorch [[GH](https://github.com/mkocabas/multi-person-tracker)]
     PointNet++ [[project-page](http://stanford.edu/~rqi/pointnet2/)],     
 
 ## Researchers
-### Michael J. Black [[personal-page](https://ps.is.mpg.de/~black)]
-### Siyu Tang [[personal-page](https://siyut.github.io/SiyuT/)]
-### Andreas Geiger [[personal-page](http://www.cvlibs.net/)]
-### Gerard Pons-Moll [[personal-page](https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html)]
-### Leonid Sigal [[peronal-page](https://www.cs.ubc.ca/~lsigal/)]
-### Bernt Schiele [[personal-page](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele)]
-### Jitendra Malik [[personal-page](https://people.eecs.berkeley.edu/~malik/)]
-### Katerina Fragkiadaki [[personal-page](https://www.cs.cmu.edu/~katef/)]
-### Xiaolong Wang [[personal-page](https://xiaolonw.github.io/)]
+Michael J. Black [[personal-page](https://ps.is.mpg.de/~black)]  
+Siyu Tang [[personal-page](https://siyut.github.io/SiyuT/)]  
+Andreas Geiger [[personal-page](http://www.cvlibs.net/)]  
+Gerard Pons-Moll [[personal-page](https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html)]  
+Leonid Sigal [[peronal-page](https://www.cs.ubc.ca/~lsigal/)]  
+Bernt Schiele [[personal-page](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele)]  
+Jitendra Malik [[personal-page](https://people.eecs.berkeley.edu/~malik/)]  
+Katerina Fragkiadaki [[personal-page](https://www.cs.cmu.edu/~katef/)]  
+Xiaolong Wang [[personal-page](https://xiaolonw.github.io/)]  
+
+### PhD Researchers
+Gyeongsik Moon  
+Georgios  Pavlakos  
+Nikos Kolotouros   
+Muhammed Kocabas  
+
+
 
 ## Libraries, modules and framework
 
