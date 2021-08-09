@@ -52,6 +52,7 @@ Bernt Schiele [[personal-page](https://www.mpi-inf.mpg.de/departments/computer-v
 Jitendra Malik [[personal-page](https://people.eecs.berkeley.edu/~malik/)]  
 Katerina Fragkiadaki [[personal-page](https://www.cs.cmu.edu/~katef/)]  
 Xiaolong Wang [[personal-page](https://xiaolonw.github.io/)]  
+Srinath Sridhar [[personal-page](https://cs.brown.edu/people/ssrinath/)] [[course](http://cs.brown.edu/courses/csci2952k/)]
 
 ### PhD Researchers
 Gyeongsik Moon  
