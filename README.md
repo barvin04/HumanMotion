@@ -31,7 +31,10 @@ a MPT in pytorch [[GH](https://github.com/mkocabas/multi-person-tracker)]
 
 13.  **OpenPose** [[GH](https://github.com/CMU-Perceptual-Computing-Lab/openpose)]. 
 
-14. PARE: Part Attention Regressor for 3D Human Body Estimation [[paper](https://arxiv.org/abs/2104.08527)], review, [[project-page](https://pare.is.tue.mpg.de/)].     
+14. PARE: Part Attention Regressor for 3D Human Body Estimation [[paper](https://arxiv.org/abs/2104.08527)], review, [[project-page](https://pare.is.tue.mpg.de/)].
+
+15. Action-Conditioned 3D Human Motion Synthesis with Transformer VAE [[paper](https://arxiv.org/abs/2104.05670)], review, [[project-page](https://imagine.enpc.fr/~petrovim/actor/)]. 
+
 
 
 
