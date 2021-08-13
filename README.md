@@ -75,14 +75,14 @@ Pyrender package  [[link](https://pyrender.readthedocs.io/en/latest/)]
 Trimesh package [[link](https://trimsh.org/trimesh.html)]  
 
 ## Datasets
-1.
-2. NTU
-3. NTU-RGBD
+1. CMU Mocap [[project-page](http://mocap.cs.cmu.edu)]
+2. Human 3.6M
+3. NTU-RGBD (60 and 120)
 4. AMASS: Archive of motion capture as surface shape [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Mahmood_AMASS_Archive_of_Motion_Capture_As_Surface_Shapes_ICCV_2019_paper.pdf)] , [[review]], [[project-page](https://amass.is.tue.mpg.de/)], [[gh](https://github.com/nghorbani/amass)]
-5. 
-6. Scape dataset [[project-page](https://ai.stanford.edu/~drago/Projects/scape/scape.html)]
-7. Human 3.6M
-8. CMU Mocap [[project-page](http://mocap.cs.cmu.edu)]  
+5. HumanAct12
+6. UESTC
+7. Scape dataset [[project-page](https://ai.stanford.edu/~drago/Projects/scape/scape.html)]
+8.   
 9. NTU-X [[GH](https://github.com/skelemoa/ntu-x)]
 
 
